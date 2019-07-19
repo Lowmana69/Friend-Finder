@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Find a Friend Application - Like a Dating App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lowmana69/Friend-Finder.git"
+  },
+  "author": "Lowmana69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lowmana69/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Lowmana69/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
